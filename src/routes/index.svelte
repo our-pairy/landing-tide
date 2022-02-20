@@ -5,5 +5,4 @@
 <svelte:head>
 	<title>목록</title>
 </svelte:head>
-
 <FeatureDescriptionBox />
