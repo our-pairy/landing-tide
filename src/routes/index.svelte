@@ -3,6 +3,6 @@
 </script>
 
 <svelte:head>
-	<title>목록</title>
+	<title>Tide | 회의는 타이드와 함께</title>
 </svelte:head>
 <FeatureDescriptionBox />
