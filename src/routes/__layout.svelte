@@ -10,7 +10,7 @@
 </div>
 <main class="bg-gradient-to-b from-zinc-700 to-zinc-100">
 	<div
-		class=" bg-cover bg-center bg-[url('/static/asset/landing-tide-background.svg')] bg-fixed bg-origin-border"
+		class=" bg-cover bg-center lg:bg-[url('/static/asset/landing-tide-background.svg')] bg-fixed bg-origin-border"
 	>
 		<TopDescriptionBox />
 	</div>

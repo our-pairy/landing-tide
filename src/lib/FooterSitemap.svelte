@@ -1,5 +1,5 @@
-<div class="grid grid-cols-12 text-left py-6">
-	<div class="col-start-3 col-span-4 text-zinc-400 text-sm">
+<div class="grid lg:grid-cols-12 text-left py-6">
+	<div class="lg:col-start-3 lg:col-span-4 ml-8 lg:ml-0 text-zinc-400 text-sm">
 		<img
 			class="w-7 mb-2 opacity-75"
 			src="../static/asset/pairy-logo-white.png"

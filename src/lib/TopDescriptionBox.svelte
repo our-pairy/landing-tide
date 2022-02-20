@@ -1,8 +1,10 @@
 <script>
 </script>
 
-<div class="grid grid-cols-12">
-	<div class="col-start-4 col-span-6 text-center mt-12 animate-fade-in-bottom">
+<div class="grid grid-cols-4 lg:grid-cols-12">
+	<div
+		class="col-start-1 col-span-4 lg:col-start-4 lg:col-span-6 text-center mt-12 animate-fade-in-bottom"
+	>
 		<h1 class="font-normal text-2xl text-white text-opacity-50 bottom-0 first:bottom-6">
 			오늘 회의도<br />의미없이 시간만 갔다면?
 		</h1>
@@ -17,10 +19,10 @@
 		>
 		<br />
 	</div>
-	<div class="lg:col-start-2 lg:col-span-10 col-start-1 col-span-12 text-center mt-8">
+	<div class="lg:col-start-2 lg:col-span-10 col-start-1 col-span-4 text-center mt-8">
 		<img
 			class="inline-block object-cover"
-			src="../static/asset/landing-tide-top.png"
+			src="../static/asset/landing-tide-top-changed.png"
 			alt="tide gives meeting solution by setting agenda timelines and goals"
 		/>
 	</div>
