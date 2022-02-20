@@ -42,7 +42,7 @@
 	<div class="lg:col-start-7 lg:col-span-4 lg:max-w-sm">
 		<img
 			class="lg:mb-12 px-4 lg:px-0"
-			src="../static/asset/landing-tide-1-changed.png"
+			src="/landing-tide-1-changed.png"
 			alt="tide gives meeting solution by setting agenda timelines and goals"
 		/>
 	</div>
@@ -53,19 +53,19 @@
 			class="lg:col-start-1 lg:col-span-3 max-w-0 lg:max-w-lg lg:-ml-40 invisible lg:visible overflow-hidden"
 		>
 			<img
-				src="../static/asset/landing-tide-2-3.png"
+				src="/landing-tide-2-3.png"
 				alt="tide gives meeting solution by setting agenda timelines and goals"
 			/>
 		</div>
 		<div class="lg:col-start-4 lg:col-span-6 lg:max-w-lg text-center">
 			<img
 				class="mb-12 invisible lg:visible max-w-0 lg:max-w-lg"
-				src="../static/asset/landing-tide-2-1-changed.png"
+				src="/landing-tide-2-1-changed.png"
 				alt="tide gives meeting solution by setting agenda timelines and goals"
 			/>
 			<img
 				class="mb-4 w-2/3 mx-auto"
-				src="../static/asset/landing-tide-2-4.svg"
+				src="/landing-tide-2-4.svg"
 				alt="tide gives meeting solution by setting agenda timelines and goals"
 			/>
 			<h2 class="text-4xl text-white">회의하다<br /><b>산으로 가는 일 없도록</b><br />••</h2>
@@ -78,12 +78,12 @@
 		<div class="lg:col-start-10 lg:col-span-2 lg:max-w-xl overflow-hidden">
 			<img
 				class="px-2 visible lg:hidden"
-				src="../static/asset/landing-tide-2-1-changed.png"
+				src="/landing-tide-2-1-changed.png"
 				alt="tide gives meeting solution by setting agenda timelines and goals"
 			/>
 			<img
 				class="relative px-2 lg:px-0 lg:left-24 lg:min-w-[400px] xl:min-w-[500px] h-auto overflow-hidden"
-				src="../static/asset/landing-tide-2-2-changed.png"
+				src="/landing-tide-2-2-changed.png"
 				alt="tide gives meeting solution by setting agenda timelines and goals"
 			/>
 		</div>
@@ -100,8 +100,8 @@
 	</div>
 	<div class="lg:col-start-5 lg:col-span-8 px-2 lg:px-0 overflow-hidden mt-4 lg:mt-0">
 		<img
-			class="relative overflow-hidden object-fit left-20"
-			src="../static/asset/landing-tide-3-changed.png"
+			class="relative overflow-hidden object-fit lg:left-20"
+			src="/landing-tide-3-changed.png"
 			alt="tide gives meeting solution by setting agenda timelines and goals"
 		/>
 	</div>

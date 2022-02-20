@@ -22,7 +22,7 @@
 	<div class="lg:col-start-2 lg:col-span-10 col-start-1 col-span-4 text-center mt-8">
 		<img
 			class="inline-block object-cover"
-			src="../static/asset/landing-tide-top-changed.png"
+			src="/landing-tide-top-changed.png"
 			alt="tide gives meeting solution by setting agenda timelines and goals"
 		/>
 	</div>

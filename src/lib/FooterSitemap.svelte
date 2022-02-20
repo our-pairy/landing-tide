@@ -1,10 +1,6 @@
 <div class="grid lg:grid-cols-12 text-left py-6">
 	<div class="lg:col-start-3 lg:col-span-4 ml-8 lg:ml-0 text-zinc-400 text-sm">
-		<img
-			class="w-7 mb-2 opacity-75"
-			src="../static/asset/pairy-logo-white.png"
-			alt="team pairy logo"
-		/>
+		<img class="w-7 mb-2 opacity-75" src="/pairy-logo-white.png" alt="team pairy logo" />
 		<p>Pairy.Co.,Ltd 2022 | All rights reserved</p>
 		<p>서울시 관악구 봉천로 569 팬컴빌딩 4층</p>
 	</div>

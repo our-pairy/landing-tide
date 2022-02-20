@@ -1,7 +1,6 @@
 <nav class="grid grid-cols-4 lg:grid-cols-12 text-center">
 	<button class="col-start-1 col-span-1 lg:col-span-2 text-center"
-		><a href="/"
-			><img class="inline-block w-12" src="../static/asset/tide-logo.svg" alt="team tide logo" /></a
+		><a href="/"><img class="inline-block w-12" src="/tide-logo.svg" alt="team tide logo" /></a
 		></button
 	>
 	<button
