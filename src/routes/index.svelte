@@ -1,2 +1,9 @@
-<h1>Welcome to SvelteKit</h1>
-<p>Visit <a href="https://kit.svelte.dev">kit.svelte.dev</a> to read the documentation</p>
+<script>
+	import FeatureDescriptionBox from '$lib/FeatureDescriptionBox.svelte';
+</script>
+
+<svelte:head>
+	<title>목록</title>
+</svelte:head>
+
+<FeatureDescriptionBox />
