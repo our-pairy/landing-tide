@@ -62,7 +62,7 @@
 			</h2>
 			<h2 class="text-2xl text-slate-100 mb-6 lg:mb-4">다같이 보며<br />이야기 해보세요</h2>
 		</div>
-		<div class="lg:col-start-7 lg:col-span-4 text-center overflow-hidden">
+		<div class="lg:col-start-7 lg:col-span-4 text-center">
 			<img
 				class="inline-block px-4 lg:px-0 mb-2 lg:mb-4 mt-2 lg:mt-16"
 				src="/landing-tide-2-5.png"
